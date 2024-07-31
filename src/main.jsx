@@ -12,5 +12,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 				<AppRoutes />
 			</StyleSheetManager>
 		</BrowserRouter>
+		
 	</Suspense>
 );
