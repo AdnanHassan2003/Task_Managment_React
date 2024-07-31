@@ -80,3 +80,11 @@ Components
 Main Components
 MainComponent.js: The main component that manages the state of the task board and handles task addition.
 AddModal.js: A modal component that allows users to add new tasks.
+
+
+
+
+
+Helpers
+getRandomColors.js: A helper function to generate random colors for tasks.
+onDragEnd.js: A helper function to handle drag-and-drop functionality.
