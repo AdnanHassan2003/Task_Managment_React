@@ -110,6 +110,28 @@ This project is licensed under the MIT License.
 
 
 
-Acknowledgements
+Acknowledgements 
 React
 uuid
+
+
+
+
+
+
+
+NB = HOW TO USE ON TASK MANAGMENT SYSTEM.
+
+.Add Task  CLICK
+. THEN FILL ALL THE FORM LIKE.
+. FORM TITLE  TEXT LIKE PROJECT SCHOOL.
+. FORM DESCRIPTION TEXT LIKE SCHOOL MANAGMENT SYSTEM.
+. FROM PRIORITY  CHEOOSE ANY ONE YOU WENT.
+. FORM TAG   TEXT LIKE TAG ONE.
+. FROM IMAGE frist one the will be write alt and the choose picture on you This PC.
+. THE LAST STEB IS SUBMIT TASK.
+
+ THE LASK MESSAGE IS READ ALL DOCUMENT TO KNOW WHATS THE HEPL ON THIS PROJECT
+
+                              READ THIS
+This is a Task Management application built using React. The application allows users to register and manage tasks by categorizing them into different stages like Backlog, Pending, To Do, Doing, and Done. The application also uses local storage to persist user data and tasks across sessions.                              
