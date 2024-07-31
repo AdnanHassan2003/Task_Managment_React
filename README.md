@@ -106,3 +106,10 @@ Persistence: All tasks and user data are saved in local storage and will persist
 
 License
 This project is licensed under the MIT License.
+
+
+
+
+Acknowledgements
+React
+uuid
