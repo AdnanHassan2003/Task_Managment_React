@@ -5,7 +5,8 @@ This is a Task Management application built using React. The application allows 
 
 
 <h1>Project Lead: adnan Hassan</h1>
-    <h4>📌 Live Demo: <a href="task-managment-react-eight.vercel.app" target="_blank">task-managment-react-eight.vercel.app</a></h4>
+    <h4>📌 Live Demo: <a href="https://task-managment-react-eight.vercel.app.com" target="_blank">https://task-managment-react-eight.vercel.app
+.com</a></h4>
    
 
 
