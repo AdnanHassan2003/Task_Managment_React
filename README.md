@@ -74,6 +74,25 @@ Persistence: All tasks and user data are saved in local storage and will persist
 
 
 
+<<<<<<< HEAD
+=======
+License
+This project is licensed under the MIT License.
+
+
+
+
+Acknowledgements 
+React
+uuid
+
+
+
+![image](https://github.com/user-attachments/assets/c12f2ca9-e555-4ea5-ae39-a22f712195e5)
+
+
+
+>>>>>>> 7ce0ee17133719ecb2657f0f57f91b404cb9042b
 
 NB = HOW TO USE ON TASK MANAGMENT SYSTEM.
 
