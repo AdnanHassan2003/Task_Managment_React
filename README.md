@@ -4,6 +4,11 @@ This is a Task Management application built using React. The application allows 
 
 
 
+<h1>Project Lead: adnan Hassan</h1>
+    <h4>📌 Live Demo: <a href="https://social-media-fd7s.onrender.com" target="_blank">https://social-media-fd7s.onrender.com</a></h4>
+   
+
+
 Features
 Task categorization into various stages.
 Drag and drop functionality to move tasks between stages.
@@ -41,41 +46,6 @@ npm  run dev
 
 
 
-File Structure
-arduino
-Copy code
-task-management-app
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   │   ├── AddModal.js
-│   │   ├── Header.js
-│   │   ├── Navbar.js
-│   │   ├── Task.js
-│   │   └── ...
-│   ├── helpers
-│   │   ├── getRandomColors.js
-│   │   └── onDragEnd.js
-│   ├── layout
-│   │   ├── ...
-│   ├── pages
-│   │   ├── ...
-│   ├── routers
-│   │   ├── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
-
-
-
-
-
 Components
 Main Components
 MainComponent.js: The main component that manages the state of the task board and handles task addition.
@@ -100,21 +70,6 @@ Register and Login: Start by registering a new user. This data will be saved in 
 Add Tasks: Use the "Add Task" button to open a modal and add new tasks. Tasks are initially added to the "Backlog" category.
 Manage Tasks: Drag and drop tasks between different categories (Backlog, Pending, To Do, Doing, Done) to manage their status.
 Persistence: All tasks and user data are saved in local storage and will persist across page refreshes.
-
-
-
-
-License
-This project is licensed under the MIT License.
-
-
-
-
-Acknowledgements 
-React
-uuid
-
-
 
 
 
