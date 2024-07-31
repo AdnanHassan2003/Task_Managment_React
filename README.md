@@ -37,3 +37,37 @@ Run the application:
 
 run appliacation
 npm  run dev
+
+
+
+
+File Structure
+arduino
+Copy code
+task-management-app
+├── public
+│   ├── index.html
+│   └── ...
+├── src
+│   ├── components
+│   │   ├── AddModal.js
+│   │   ├── Header.js
+│   │   ├── Navbar.js
+│   │   ├── Task.js
+│   │   └── ...
+│   ├── helpers
+│   │   ├── getRandomColors.js
+│   │   └── onDragEnd.js
+│   ├── layout
+│   │   ├── ...
+│   ├── pages
+│   │   ├── ...
+│   ├── routers
+│   │   ├── ...
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── .gitignore
+├── package.json
+├── README.md
+└── ...
