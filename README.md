@@ -100,3 +100,9 @@ Register and Login: Start by registering a new user. This data will be saved in 
 Add Tasks: Use the "Add Task" button to open a modal and add new tasks. Tasks are initially added to the "Backlog" category.
 Manage Tasks: Drag and drop tasks between different categories (Backlog, Pending, To Do, Doing, Done) to manage their status.
 Persistence: All tasks and user data are saved in local storage and will persist across page refreshes.
+
+
+
+
+License
+This project is licensed under the MIT License.
