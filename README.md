@@ -5,10 +5,18 @@ This is a Task Management application built using React. The application allows 
 
 
 Features
-User registration and login.
 Task categorization into various stages.
 Drag and drop functionality to move tasks between stages.
 Tasks are saved in local storage for persistence.
 Responsive and user-friendly interface.
+
+
+
+
+Installation
+Clone the repository:
+sh
+Copy code
+git clone https://github.com/AdnanHassan2003/Task_Managment_React
 
 
