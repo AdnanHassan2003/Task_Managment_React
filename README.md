@@ -15,8 +15,25 @@ Responsive and user-friendly interface.
 
 Installation
 Clone the repository:
-sh
 Copy code
 git clone https://github.com/AdnanHassan2003/Task_Managment_React
 
 
+
+
+
+Navigate to the project directory:
+Copy code
+cd task-management-app
+Install dependencies:
+
+
+
+install dependence:
+npm install
+Run the application:
+
+
+
+run appliacation
+npm  run dev
